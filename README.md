@@ -6,4 +6,4 @@ In Construction.
 
 ## References
 
-https://en.wikipedia.org/wiki/Perceptron
+[Perceptron in Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
